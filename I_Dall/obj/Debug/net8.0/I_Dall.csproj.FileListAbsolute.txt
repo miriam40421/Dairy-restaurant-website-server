@@ -1,0 +1,45 @@
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\bin\Debug\net8.0\I_Dall.deps.json
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\bin\Debug\net8.0\I_Dall.dll
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\bin\Debug\net8.0\I_Dall.pdb
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\bin\Debug\net8.0\Dto.dll
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\bin\Debug\net8.0\Dto.pdb
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\obj\Debug\net8.0\I_Dall.csproj.AssemblyReference.cache
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\obj\Debug\net8.0\I_Dall.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\obj\Debug\net8.0\I_Dall.AssemblyInfoInputs.cache
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\obj\Debug\net8.0\I_Dall.AssemblyInfo.cs
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\obj\Debug\net8.0\I_Dall.csproj.CoreCompileInputs.cache
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\obj\Debug\net8.0\I_Dall.csproj.Up2Date
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\obj\Debug\net8.0\I_Dall.dll
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\obj\Debug\net8.0\refint\I_Dall.dll
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\obj\Debug\net8.0\I_Dall.pdb
+C:\D\c#_פרויקט אנגולר\project C#\I_Dall\obj\Debug\net8.0\ref\I_Dall.dll
+D:\angular\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.csproj.AssemblyReference.cache
+D:\angular\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.GeneratedMSBuildEditorConfig.editorconfig
+D:\angular\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.AssemblyInfoInputs.cache
+D:\angular\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.AssemblyInfo.cs
+D:\angular\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.csproj.CoreCompileInputs.cache
+D:\angular\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.dll
+D:\angular\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\refint\I_Dall.dll
+D:\angular\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.pdb
+D:\angular\project_angular&c#\project C#\I_Dall\bin\Debug\net8.0\I_Dall.deps.json
+D:\angular\project_angular&c#\project C#\I_Dall\bin\Debug\net8.0\I_Dall.dll
+D:\angular\project_angular&c#\project C#\I_Dall\bin\Debug\net8.0\I_Dall.pdb
+D:\angular\project_angular&c#\project C#\I_Dall\bin\Debug\net8.0\Dto.dll
+D:\angular\project_angular&c#\project C#\I_Dall\bin\Debug\net8.0\Dto.pdb
+D:\angular\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.csproj.Up2Date
+D:\angular\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\ref\I_Dall.dll
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\bin\Debug\net8.0\I_Dall.deps.json
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\bin\Debug\net8.0\I_Dall.dll
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\bin\Debug\net8.0\I_Dall.pdb
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\bin\Debug\net8.0\Dto.dll
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\bin\Debug\net8.0\Dto.pdb
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.csproj.AssemblyReference.cache
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.AssemblyInfoInputs.cache
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.AssemblyInfo.cs
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.csproj.CoreCompileInputs.cache
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.csproj.Up2Date
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.dll
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\refint\I_Dall.dll
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\I_Dall.pdb
+D:\פרויקטים\project_angular&c#\project C#\I_Dall\obj\Debug\net8.0\ref\I_Dall.dll
