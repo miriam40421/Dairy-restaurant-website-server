@@ -1,4 +1,4 @@
-# 🧀 Dairy-Restaurant – Backend (ASP.NET Core API)
+# 🍕🍦 Dairy-Restaurant – Backend (ASP.NET Core API)
 
 ## 📘 Overview
 This is the backend for a full-stack Dairy-Restaurant web application, built using ASP.NET Core Web API with layered architecture and built-in dependency injection.
