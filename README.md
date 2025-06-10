@@ -7,7 +7,7 @@ This is the backend for a full-stack Dairy-Restaurant web application, built usi
 
 ## 🔧 Technologies Used
 
-- C# with .NET 6+
+- C# with .NET 8+
 - ASP.NET Core Web API
 - Entity Framework Core (DB First approach)
 - SQL Server
